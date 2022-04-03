@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f4bdba42-2dd1-4d7d-b734-2c42c99c1115" name="Changes" comment="笔记">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config/htmlModules.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config/htmlModules.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/00.目录页/02.页面.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/00.目录页/02.页面.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiduPush.sh" beforeDir="false" afterPath="$PROJECT_DIR$/baiduPush.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/05.后端/01.日记/00.2020-6-19.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.后端/01.日记/00.2020-6-19.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/05.后端/05.分布式/003.dubbo.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/003.dubbo.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648918230920</updated>
       <workItem from="1648918234205" duration="2850000" />
-      <workItem from="1648921292854" duration="9952000" />
+      <workItem from="1648921292854" duration="16335000" />
     </task>
     <task id="LOCAL-00001" summary="第一个">
       <created>1648921403537</created>
@@ -105,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648961750288</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="笔记">
+      <created>1648962125051</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648962125051</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

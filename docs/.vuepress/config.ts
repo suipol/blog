@@ -21,6 +21,12 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
   // 主题配置
   themeConfig: {
+    algolia: {
+      apiKey: 'a3347ee3c6de7b02c4f3423bcb08a54a',
+      indexName: 'super'
+      // apiKey: 'feff649032d8034cf2a636ef55d96054',
+      // indexName: 'ts-yayujs'
+    },
     // 导航配置
     nav: [
       { text: '首页', link: '/' },
@@ -296,9 +302,9 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     'vuepress-plugin-comment': {
       choosen: 'gitalk',
       options: {
-        clientID: 'a6e1355287947096b88b',
-        clientSecret: 'f0e77d070fabfcd5af95bebb82b2d574d7248d71',
-        repo: 'blog-gitalk-comment', // GitHub 仓库
+        clientID: '9a0a85315d89e60097bd',
+        clientSecret: '438dc3c01b389fb5018a481aa2abcf747313316b',
+        repo: 'doc', // GitHub 仓库
         owner: 'suipol', // GitHub仓库所有者
         admin: ['suipol'], // 对仓库有写权限的人
         // distractionFreeMode: true,
