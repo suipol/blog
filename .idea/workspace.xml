@@ -4,50 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4bdba42-2dd1-4d7d-b734-2c42c99c1115" name="Changes" comment="第一个">
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/02.数据库/01.oracle.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/02.数据库/02.Hbase.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/02.数据库/03.ELK.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/02.数据库/04.PostgreSQL.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/03.语言/001.Java.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/04.框架/001.Spring.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/04.框架/002.Mybatis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/04.框架/003.Hibernate.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/04.框架/004.SpringMVC.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/04.框架/005.SpringBoot.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/04.框架/006.Redis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/04.框架/007.nginx.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/001.gateway.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/002.feign.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/003.dubbo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/004.nacos.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/005.Histrix.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/006.Apollo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/007.Ribbon.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/008.负载均衡.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/06.消息队列/001.ActiveMQ.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/06.消息队列/001.KafkaMQ.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/06.消息队列/001.RabbitMQ.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/06.消息队列/002.RocketMQ.md" afterDir="false" />
+    <list default="true" id="f4bdba42-2dd1-4d7d-b734-2c42c99c1115" name="Changes" comment="笔记">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.前端/40.学习笔记/40.小程序笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.前端/40.学习笔记/40.小程序笔记.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.前端/41.log/00.失敬失敬.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/03.技术/01.技术文档/01.Git使用手册.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.技术/01.技术文档/01.Git使用手册.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/05.后端/log/2020-6-19.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.后端/01.日记/00.2020-6-19.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/05.后端/log/2020-6-20.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/《ES6 教程》笔记/01.ECMAScript 6 简介.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/《ES6 教程》笔记/01.ECMAScript 6 简介.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/《ES6 教程》笔记/29.最新提案.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/《ES6 教程》笔记/29.最新提案.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/《Git》学习笔记/10.手册/00.常用Git命令清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/《Git》学习笔记/10.手册/00.常用Git命令清单.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/《Git》学习笔记/10.手册/03.Git变基合并.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/《Git》学习笔记/10.手册/03.Git变基合并.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/《Git》学习笔记/20.文档笔记/10.Git基础与命令.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/《Git》学习笔记/20.文档笔记/10.Git基础与命令.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/《Git》学习笔记/20.文档笔记/100.Git工具-重写历史.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/《Git》学习笔记/20.文档笔记/100.Git工具-重写历史.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/《Git》学习笔记/20.文档笔记/20.Git分支-分支原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/《Git》学习笔记/20.文档笔记/20.Git分支-分支原理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/《Git》学习笔记/20.文档笔记/80.Git工具-查看修订版本.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/《Git》学习笔记/20.文档笔记/80.Git工具-查看修订版本.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/《Git》学习笔记/20.文档笔记/90.Git工具-交互式暂存.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/《Git》学习笔记/20.文档笔记/90.Git工具-交互式暂存.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/《JavaScript教程》笔记/03.面向对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/《JavaScript教程》笔记/03.面向对象.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/《JavaScript教程》笔记/06.事件.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/《JavaScript教程》笔记/06.事件.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/《JavaScript教程》笔记/07.浏览器模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/《JavaScript教程》笔记/07.浏览器模型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config/htmlModules.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config/htmlModules.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/00.目录页/02.页面.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/00.目录页/02.页面.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648918230920</updated>
       <workItem from="1648918234205" duration="2850000" />
-      <workItem from="1648921292854" duration="9561000" />
+      <workItem from="1648921292854" duration="9952000" />
     </task>
     <task id="LOCAL-00001" summary="第一个">
       <created>1648921403537</created>
@@ -131,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648951820239</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="笔记">
+      <created>1648961740115</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648961740115</updated>
+    </task>
+    <task id="LOCAL-00005" summary="笔记">
+      <created>1648961750288</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648961750288</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +124,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一个" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一个" />
+    <MESSAGE value="笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="笔记" />
   </component>
 </project>
