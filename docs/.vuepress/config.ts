@@ -72,10 +72,6 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         ],
       },
       {
-        text: '页面',
-        link: '/ui/',
-      },
-      {
         text: '技术',
         link: '/technology/',
         items: [

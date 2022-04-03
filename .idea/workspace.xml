@@ -5,19 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4bdba42-2dd1-4d7d-b734-2c42c99c1115" name="Changes" comment="第一个">
-      <change afterPath="$PROJECT_DIR$/docs/00.目录页/05.后端.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.前端/25.JavaScript文章/110.测试.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.前端/41.log/00.失敬失敬.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/log/2020-6-19.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/log/2020-6-20.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/02.数据库/01.oracle.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/02.数据库/02.Hbase.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/02.数据库/03.ELK.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/02.数据库/04.PostgreSQL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/03.语言/001.Java.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/04.框架/001.Spring.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/04.框架/002.Mybatis.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/04.框架/003.Hibernate.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/04.框架/004.SpringMVC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/04.框架/005.SpringBoot.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/04.框架/006.Redis.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/04.框架/007.nginx.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/001.gateway.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/002.feign.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/003.dubbo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/004.nacos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/005.Histrix.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/006.Apollo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/007.Ribbon.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/008.负载均衡.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/06.消息队列/001.ActiveMQ.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/06.消息队列/001.KafkaMQ.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/06.消息队列/001.RabbitMQ.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/06.消息队列/002.RocketMQ.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config/sidebar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/00.目录页/02.页面.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/00.目录页/02.页面.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/01.前端/40.学习笔记/40.小程序笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.前端/40.学习笔记/40.小程序笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.前端/41.log/00.失敬失敬.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/03.技术/01.技术文档/01.Git使用手册.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.技术/01.技术文档/01.Git使用手册.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/05.关于/01.关于.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/05.后端/log/2020-6-19.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.后端/01.日记/00.2020-6-19.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/05.后端/log/2020-6-20.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/《ES6 教程》笔记/01.ECMAScript 6 简介.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/《ES6 教程》笔记/01.ECMAScript 6 简介.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/《ES6 教程》笔记/29.最新提案.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/《ES6 教程》笔记/29.最新提案.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/《Git》学习笔记/10.手册/00.常用Git命令清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/《Git》学习笔记/10.手册/00.常用Git命令清单.md" afterDir="false" />
@@ -30,71 +48,6 @@
       <change beforePath="$PROJECT_DIR$/docs/《JavaScript教程》笔记/03.面向对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/《JavaScript教程》笔记/03.面向对象.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/《JavaScript教程》笔记/06.事件.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/《JavaScript教程》笔记/06.事件.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/《JavaScript教程》笔记/07.浏览器模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/《JavaScript教程》笔记/07.浏览器模型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/AlgoliaSearchBox.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/ArchivesPage.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/ArticleInfo.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/BloggerBar.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/BodyBgImg.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/Buttons.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/Catalogue.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/CategoriesBar.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/CategoriesPage.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/DropdownLink.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/DropdownTransition.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/Footer.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/Home.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/MainLayout.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/NavLink.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/NavLinks.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/Navbar.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/Page.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/PageEdit.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/PageNav.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/Pagination.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/PostList.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/RightMenu.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/Sidebar.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/SidebarButton.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/SidebarGroup.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/SidebarLink.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/SidebarLinks.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/TagsBar.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/TagsPage.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/components/UpdateArticle.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/enhanceApp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/global-components/Badge.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/global-components/CodeBlock.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/global-components/CodeGroup.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/layouts/404.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/layouts/Layout.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/mixins/posts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/mixins/titleBadge.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/node_utils/getSidebarData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/node_utils/handlePage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/node_utils/modules/fn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/node_utils/modules/readFileList.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/node_utils/setFrontmatter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/noopModule.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/styles/arrow.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/styles/code-theme.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/styles/code.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/styles/config.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/styles/custom-blocks.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/styles/index.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/styles/markdown-container.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/styles/mobile.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/styles/palette.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/styles/toc.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/styles/wrapper.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/templates/dev.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/templates/ssr.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/types/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/util/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/util/postData.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +78,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/01.前端/25.JavaScript文章" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/05.后端/05.分布式" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -136,11 +89,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\下载\doi\vuepress-theme-vdoing-master (1)\vuepress-theme-vdoing-master\docs\05.后端\05.分布式" />
+      <recent name="D:\下载\doi\vuepress-theme-vdoing-master (1)\vuepress-theme-vdoing-master\docs\05.后端\02.数据库" />
+      <recent name="D:\下载\doi\vuepress-theme-vdoing-master (1)\vuepress-theme-vdoing-master\docs\05.后端\06.消息队列" />
+      <recent name="D:\下载\doi\vuepress-theme-vdoing-master (1)\vuepress-theme-vdoing-master\docs\05.后端\04.框架" />
       <recent name="D:\下载\doi\vuepress-theme-vdoing-master (1)\vuepress-theme-vdoing-master\docs\01.前端\25.JavaScript文章" />
-      <recent name="D:\下载\doi\vuepress-theme-vdoing-master (1)\vuepress-theme-vdoing-master\docs\01.前端\40.学习笔记" />
-      <recent name="D:\下载\doi\vuepress-theme-vdoing-master (1)\vuepress-theme-vdoing-master\docs\01.前端" />
-      <recent name="D:\下载\doi\vuepress-theme-vdoing-master (1)\vuepress-theme-vdoing-master\docs\05.后端\log" />
-      <recent name="D:\下载\doi\vuepress-theme-vdoing-master (1)\vuepress-theme-vdoing-master\docs\00.目录页" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\下载\doi\vuepress-theme-vdoing-master (1)\vuepress-theme-vdoing-master\docs\01.前端\25.JavaScript文章" />
@@ -155,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648918230920</updated>
       <workItem from="1648918234205" duration="2850000" />
-      <workItem from="1648921292854" duration="7452000" />
+      <workItem from="1648921292854" duration="9561000" />
     </task>
     <task id="LOCAL-00001" summary="第一个">
       <created>1648921403537</created>
@@ -171,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648921746538</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第一个">
+      <created>1648951820238</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648951820239</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
