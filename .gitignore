@@ -16,3 +16,6 @@ urls.txt
 
 # mac
 .DS_Store
+/.idea/front_study.iml
+/.idea/modules.xml
+/.idea/vcs.xml

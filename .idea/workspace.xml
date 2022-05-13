@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4bdba42-2dd1-4d7d-b734-2c42c99c1115" name="Changes" comment="笔记">
-      <change afterPath="$PROJECT_DIR$/.node-version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nvmrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/05.后端/04.框架/001.Spring.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.后端/04.框架/001.Spring.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/05.后端/04.框架/006.Redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.后端/04.框架/006.Redis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/04.更多/10.实用技巧/10.一行代码“黑”掉任意网站.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/04.更多/10.实用技巧/10.一行代码“黑”掉任意网站.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,16 +41,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/05.后端/05.分布式" />
     <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="D:\WebStorm 2021.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -87,7 +79,20 @@
       <workItem from="1649224173083" duration="49000" />
       <workItem from="1649300314314" duration="3823000" />
       <workItem from="1649310254552" duration="23000" />
-      <workItem from="1649310773705" duration="2590000" />
+      <workItem from="1649310773705" duration="5838000" />
+      <workItem from="1649912653154" duration="2723000" />
+      <workItem from="1650245861474" duration="114000" />
+      <workItem from="1650246087046" duration="922000" />
+      <workItem from="1650251490522" duration="1187000" />
+      <workItem from="1650347430533" duration="595000" />
+      <workItem from="1650599005949" duration="602000" />
+      <workItem from="1650767910759" duration="597000" />
+      <workItem from="1650952596167" duration="6000" />
+      <workItem from="1650956575468" duration="594000" />
+      <workItem from="1651197656172" duration="971000" />
+      <workItem from="1651713749489" duration="594000" />
+      <workItem from="1651715279778" duration="594000" />
+      <workItem from="1652169915604" duration="1934000" />
     </task>
     <task id="LOCAL-00001" summary="第一个">
       <created>1648921403537</created>
@@ -138,7 +143,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648981227939</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="笔记">
+      <created>1649324636949</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1649324636949</updated>
+    </task>
+    <task id="LOCAL-00009" summary="笔记">
+      <created>1649410287932</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1649410287932</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
