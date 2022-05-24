@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4bdba42-2dd1-4d7d-b734-2c42c99c1115" name="Changes" comment="添加常用网站目录,以防忘记" />
+    <list default="true" id="f4bdba42-2dd1-4d7d-b734-2c42c99c1115" name="Changes" comment="添加常用网站目录,以防忘记">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/06.收藏夹/03.suipol的工具箱.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/06.收藏夹/03.suipol的工具箱.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +95,7 @@
       <workItem from="1651713749489" duration="594000" />
       <workItem from="1651715279778" duration="594000" />
       <workItem from="1652169915604" duration="2568000" />
-      <workItem from="1652667198822" duration="12242000" />
+      <workItem from="1652667198822" duration="13380000" />
     </task>
     <task id="LOCAL-00001" summary="第一个">
       <created>1648921403537</created>
@@ -185,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653383181182</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="添加常用网站目录,以防忘记">
+      <created>1653383262488</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1653383262488</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
