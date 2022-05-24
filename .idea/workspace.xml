@@ -7,8 +7,6 @@
     <list default="true" id="f4bdba42-2dd1-4d7d-b734-2c42c99c1115" name="Changes" comment="添加常用网站目录,以防忘记">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/05.后端/05.分布式/007.Ribbon.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/007.Ribbon.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/05.后端/05.分布式/008.负载均衡.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/008.负载均衡.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/06.收藏夹/03.suipol的工具箱.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/06.收藏夹/03.suipol的工具箱.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +96,7 @@
       <workItem from="1651713749489" duration="594000" />
       <workItem from="1651715279778" duration="594000" />
       <workItem from="1652169915604" duration="2568000" />
-      <workItem from="1652667198822" duration="6852000" />
+      <workItem from="1652667198822" duration="11942000" />
     </task>
     <task id="LOCAL-00001" summary="第一个">
       <created>1648921403537</created>
@@ -177,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653361296650</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="添加常用网站目录,以防忘记">
+      <created>1653375604915</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1653375604915</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
