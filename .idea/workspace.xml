@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4bdba42-2dd1-4d7d-b734-2c42c99c1115" name="Changes" comment="笔记">
+    <list default="true" id="f4bdba42-2dd1-4d7d-b734-2c42c99c1115" name="Changes" comment="笔记添加异常">
+      <change afterPath="$PROJECT_DIR$/docs/06.收藏夹/03.suipol的工具箱.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/04.更多/10.实用技巧/10.一行代码“黑”掉任意网站.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/04.更多/10.实用技巧/10.一行代码“黑”掉任意网站.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/05.后端/01.日记/02.异常.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.后端/01.日记/02.异常.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/05.后端/06.消息队列/001.KafkaMQ.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.后端/06.消息队列/003.KafkaMQ.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/05.后端/06.消息队列/001.RabbitMQ.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.后端/06.消息队列/004.RabbitMQ.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,19 +46,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/06.收藏夹" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\front_study\docs\06.收藏夹" />
       <recent name="D:\下载\doi\vuepress-theme-vdoing-master (1)\vuepress-theme-vdoing-master\docs\05.后端\05.分布式" />
       <recent name="D:\下载\doi\vuepress-theme-vdoing-master (1)\vuepress-theme-vdoing-master\docs\05.后端\02.数据库" />
       <recent name="D:\下载\doi\vuepress-theme-vdoing-master (1)\vuepress-theme-vdoing-master\docs\05.后端\06.消息队列" />
       <recent name="D:\下载\doi\vuepress-theme-vdoing-master (1)\vuepress-theme-vdoing-master\docs\05.后端\04.框架" />
-      <recent name="D:\下载\doi\vuepress-theme-vdoing-master (1)\vuepress-theme-vdoing-master\docs\01.前端\25.JavaScript文章" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\下载\doi\vuepress-theme-vdoing-master (1)\vuepress-theme-vdoing-master\docs\01.前端\25.JavaScript文章" />
@@ -92,7 +98,8 @@
       <workItem from="1651197656172" duration="971000" />
       <workItem from="1651713749489" duration="594000" />
       <workItem from="1651715279778" duration="594000" />
-      <workItem from="1652169915604" duration="1934000" />
+      <workItem from="1652169915604" duration="2568000" />
+      <workItem from="1652667198822" duration="3407000" />
     </task>
     <task id="LOCAL-00001" summary="第一个">
       <created>1648921403537</created>
@@ -157,11 +164,28 @@
       <option name="project" value="LOCAL" />
       <updated>1649410287932</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="笔记添加异常">
+      <created>1652413154167</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1652413154167</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -177,6 +201,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一个" />
     <MESSAGE value="笔记" />
-    <option name="LAST_COMMIT_MESSAGE" value="笔记" />
+    <MESSAGE value="笔记添加异常" />
+    <option name="LAST_COMMIT_MESSAGE" value="笔记添加异常" />
   </component>
 </project>

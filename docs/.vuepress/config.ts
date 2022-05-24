@@ -21,12 +21,6 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
   // 主题配置
   themeConfig: {
-    algolia: {
-      apiKey: 'a3347ee3c6de7b02c4f3423bcb08a54a',
-      indexName: 'super'
-      // apiKey: 'feff649032d8034cf2a636ef55d96054',
-      // indexName: 'ts-yayujs'
-    },
     // 导航配置
     nav: [
       { text: '首页', link: '/' },
