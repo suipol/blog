@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4bdba42-2dd1-4d7d-b734-2c42c99c1115" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/github-deploy.sh" afterDir="false" />
+    <list default="true" id="f4bdba42-2dd1-4d7d-b734-2c42c99c1115" name="Changes" comment="添加静态网站部署">
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/01.日记/00.日记非技术汇总.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/05.后端/01.日记/00.2020-6-19.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.后端/01.日记/03.2020-6-19.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/05.后端/03.语言/001.Java.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.后端/03.语言/001.Java.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/06.收藏夹/03.suipol的工具箱.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/06.收藏夹/03.suipol的工具箱.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653383262488</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="添加静态网站部署">
+      <created>1653385476649</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1653385476649</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +267,7 @@
     <MESSAGE value="笔记" />
     <MESSAGE value="笔记添加异常" />
     <MESSAGE value="添加常用网站目录,以防忘记" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加常用网站目录,以防忘记" />
+    <MESSAGE value="添加静态网站部署" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加静态网站部署" />
   </component>
 </project>
