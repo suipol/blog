@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4bdba42-2dd1-4d7d-b734-2c42c99c1115" name="Changes" comment="添加静态网站部署">
-      <change afterPath="$PROJECT_DIR$/docs/05.后端/01.日记/00.日记非技术汇总.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changeNode.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/05.后端/01.日记/00.2020-6-19.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.后端/01.日记/03.2020-6-19.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/05.后端/03.语言/001.Java.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.后端/03.语言/001.Java.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/06.收藏夹/03.suipol的工具箱.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/06.收藏夹/03.suipol的工具箱.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/05.后端/01.日记/01.2022-04-07.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.后端/01.日记/01.2022-04-07.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +97,9 @@
       <workItem from="1651715279778" duration="594000" />
       <workItem from="1652169915604" duration="2568000" />
       <workItem from="1652667198822" duration="13380000" />
+      <workItem from="1653473326496" duration="1746000" />
+      <workItem from="1653618535731" duration="1858000" />
+      <workItem from="1653635881691" duration="601000" />
     </task>
     <task id="LOCAL-00001" summary="第一个">
       <created>1648921403537</created>
@@ -205,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653385476649</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="添加静态网站部署">
+      <created>1653471423064</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1653471423064</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
