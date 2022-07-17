@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4bdba42-2dd1-4d7d-b734-2c42c99c1115" name="Changes" comment="添加静态网站部署">
-      <change afterPath="$PROJECT_DIR$/changeNode.sh" afterDir="false" />
+    <list default="true" id="f4bdba42-2dd1-4d7d-b734-2c42c99c1115" name="Changes" comment="添加信息">
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/01.日记/04.leetcode刷题日记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/05.后端/01.日记/05.经验.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/05.后端/01.日记/01.2022-04-07.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.后端/01.日记/01.2022-04-07.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/05.后端/02.数据库/03.ELK.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.后端/02.数据库/03.ELK.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/05.后端/05.分布式/004.nacos.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.后端/05.分布式/004.nacos.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/06.收藏夹" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../download/SSR-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -99,7 +101,21 @@
       <workItem from="1652667198822" duration="13380000" />
       <workItem from="1653473326496" duration="1746000" />
       <workItem from="1653618535731" duration="1858000" />
-      <workItem from="1653635881691" duration="601000" />
+      <workItem from="1653635881691" duration="1429000" />
+      <workItem from="1653896207115" duration="1212000" />
+      <workItem from="1653967709359" duration="2400000" />
+      <workItem from="1655087165639" duration="1268000" />
+      <workItem from="1655103213370" duration="3000000" />
+      <workItem from="1655345295949" duration="1797000" />
+      <workItem from="1655858853128" duration="1195000" />
+      <workItem from="1656031991212" duration="1812000" />
+      <workItem from="1656291222891" duration="2018000" />
+      <workItem from="1656925805877" duration="594000" />
+      <workItem from="1656999433544" duration="1208000" />
+      <workItem from="1657253196294" duration="1354000" />
+      <workItem from="1657613990093" duration="1282000" />
+      <workItem from="1657856816314" duration="1785000" />
+      <workItem from="1657876692768" duration="2116000" />
     </task>
     <task id="LOCAL-00001" summary="第一个">
       <created>1648921403537</created>
@@ -213,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653471423064</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="添加信息">
+      <created>1653645325173</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1653645325173</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,6 +299,7 @@
     <MESSAGE value="笔记添加异常" />
     <MESSAGE value="添加常用网站目录,以防忘记" />
     <MESSAGE value="添加静态网站部署" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加静态网站部署" />
+    <MESSAGE value="添加信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加信息" />
   </component>
 </project>
